@@ -1,2 +1,1 @@
-# EZ-PAY
-Full website for paayment
+## Build a basic version of EZ-PAY.
